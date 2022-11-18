@@ -1,5 +1,3 @@
-Hey, my name is Alex and I am an aspiring developer.
-Currently I am learning HTML, CSS and JavaScript.
 You can usually find me on discord: TotallyGay#2024
 
 <!---
